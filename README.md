@@ -1,2 +1,2 @@
-# mgt4250spring2024
-This is a repository for MGT4250
+# MGT 4250 Spring 2024 Course Project
+Authors: Nina Lichtenberger (nlichtenberger@elon.edu), David Neufang (dneufang@elon.edu)
