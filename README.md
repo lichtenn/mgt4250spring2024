@@ -38,14 +38,17 @@ Descriptive Statistics for Categorical Variables:
 ## Interpreting Visualizations
 ### Average Charges by Region (Filled Map)
 ![image](https://github.com/lichtenn/mgt4250spring2024/assets/158494941/a391a36e-96af-482c-81d0-bbd23eb57e60)
+
 The filled map visualization of average medical expenses across distinct regions within the US offers a comprehensive snapshot of the geographical distribution of healthcare costs. By employing a sequential color map, the visualization illustrates variations in expense levels, with darker shades indicating lower average expenses and lighter shades representing higher costs. This visual representation enables stakeholders to swiftly discern regional disparities in healthcare expenditure, a critical aspect for devising targeted interventions, risk assessments, and policies aimed at addressing the diverse needs of different communities. We can see that the states in the southeast have by far the highest average expenses with $14.500. They are followed by northeast states with an average of $13.500. Therefore, insurance companies should consider adding a premium for these states as well as offering lower rates to residents of the west. On a state level, healthcare issues are of special importance in the east and should be addressed accordingly by government stakeholders.
 
 ### Impact of Different Factors (Radar Chart)
 ![image](https://github.com/lichtenn/mgt4250spring2024/assets/158494941/541a4bd3-012d-42a0-a2b2-2c0de6ca4359)
+
 The radar chart depicts the coefficients of a linear regression model. It shows the influence of different factors on the medical expenses of the individuals in the study. In this way, it helps display which factors have the highest impact. For example, it explains that being a smoker correlates strongly positively with the amount of insurance cost - BMI and Age demonstrate the same tendency and have a negative impact on the patients’ health cost. Therefore, it helps companies and policymakers to determine which group of people has the highest insurance cost and which of their features are most likely the reason for it. We can also see that the Region, Sex, and Number of Children do not have to be prioritized as highly as Smoker-Status, BMI, and Age in the risk assessment. On a government level, the plot demonstrates how critical it is to promote non-smoking as well as a healthy diet.
 
 ### Clusters of Patients
 ![image](https://github.com/lichtenn/mgt4250spring2024/assets/158494941/c8397ff2-2b4b-4b3b-8637-5ec5edc3d1e3)
+
 Lastly, the visualization of k-means clustering helps to visualize the different groups in the sample based on BMI, Age, and Charges. In this way, it helps to understand which groups of people have similar charges and by which factors their belonging to a group of low, medium, or high cost can be explained. The visualization can help to tailor advisory services for certain patients belonging to a certain cluster. A client in cluster 1 may have to be treated differently from a client in cluster 4. In line with the results from our radar chart, the group with the highest charges is, for example, characterized by a high age and BMI. The correlation of age/BMI and charges holds true for all other clusters except the two clusters with the lowest expenses. In conclusion, the cluster is supposed to further emphasize the impact of age and BMI on medical charges
 
 ## Discussion & Summary
@@ -72,6 +75,7 @@ American adults spent an average of $4,830 annually on medical expenses. Former 
 **Age:** Age can also play a significant role. Older individuals tend to have more health issues and may require more frequent medical care, leading to higher medical bills compared to younger individuals.
 
 **Sex:** While there may be some differences in healthcare needs between sexes, the impact on medical bills might not be as pronounced compared to other factors like BMI or smoking status. However, factors like reproductive health and preventive care might vary.
+
 **Region:** Healthcare costs can vary significantly depending on the region due to differences in healthcare infrastructure, cost of living, availability of healthcare services, and insurance coverage. For example, medical bills might be higher in regions with higher costs of living or where healthcare services are more expensive.
 
 **Number of Children:** This factor might not have as strong an influence on individual medical bills compared to others listed. However, it could affect overall healthcare costs for a family, especially if children require frequent medical care or specialized treatments.
@@ -79,7 +83,7 @@ Overall, while all factors listed can influence medical bills to some extent, BM
 
 ### Conclusion
 
-The used AI model and the cited studies mostly confirm the results of the conducted analysis in this project. Smoking status, age, and Body Mass Index (BMI) are the top predictors for health care cost, whereas number of children, region, or sex does not play a significant role in estimating the health care expenses. Reasons for the irrelevance of the "region"-factor and this deviance from the used AI model response may be due to the large size of the different region categories. Although there are some trends regarding socioeconomic status in southwest vs. northwest United States, the differences among the regions are not as big as between different city parts in the US. The smaller the selected region, the more significant the results will be regarding that factor.
+The used AI model and the cited studies mostly confirm the results of the conducted analysis in this project. Smoking status, age, and Body Mass Index (BMI) are the top predictors for health care cost, whereas number of children, region, or sex does not play a significant role in estimating the health care expenses. Reasons for the irrelevance of the "region"-factor and this deviance from the used AI model response may be due to the large size of the different region categories. Although there are some trends regarding socioeconomic status in southwest vs. northwest regions of the United States, the differences among the regions are not as big as between different city parts in the US. The smaller the selected region, the more significant the results will be regarding that factor.
 
 
 ## Bibliography
