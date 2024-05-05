@@ -2,6 +2,7 @@
 Authors: Nina Lichtenberger (nlichtenberger@elon.edu), David Neufang (dneufang@elon.edu)
 
 ## Project Description
+This repository is for the final class project of MGT 4250: Data Visualization and Storytelling at Elon University. The project aimed at deploying three visualizations via Python to answer a research question. The visualizations were deployed via Streamlit and can be accessed through this [link](https://mgt4250spring2024-finalproject-lichtenberger-neufang.streamlit.app/).
 ### Question of Interest
 The question of interest is which are the main factors determining the medical expenses of an individual in the US. More specifically, the region of residence, sex, smoker status, BMI, age, and number of children will be considered as possible influences.
 
