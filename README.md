@@ -49,6 +49,37 @@ The radar chart depicts the coefficients of a linear regression model. It shows 
 Lastly, the visualization of k-means clustering helps to visualize the different groups in the sample based on BMI, Age, and Charges. In this way, it helps to understand which groups of people have similar charges and by which factors their belonging to a group of low, medium, or high cost can be explained. The visualization can help to tailor advisory services for certain patients belonging to a certain cluster. A client in cluster 1 may have to be treated differently from a client in cluster 4. In line with the results from our radar chart, the group with the highest charges is, for example, characterized by a high age and BMI. The correlation of age/BMI and charges holds true for all other clusters except the two clusters with the lowest expenses. In conclusion, the cluster is supposed to further emphasize the impact of age and BMI on medical charges
 
 ## Discussion & Summary
+To incorporate existing research, 3 articles regarding medical insurance cost and the predicting factors have been considered in this project. 
+* [Article on Impact of BMI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10394178/#:~:text=Studies%20have%20found%20that%20health,to%20be%20nearly%20%24114%20billion.)
+* [Article on Impact of Age](https://www.healthsystemtracker.org/brief/the-burden-of-medical-debt-in-the-united-states/#:~:text=People%20typically%20use%20more%20health,adults%20to%20have%20medical%20debt.)
+* [Article on Impact of Smoking Status](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6661572/#:~:text=Former%20smokers%20had%20the%20highest%20annual%20medical%20expenses%2C%20US%245590,for%20Current%20and%20Former%20smokers.)
+
+**Findings of BMI Study:** 
+A study in the United States found that adults with obesity faced significantly higher annual medical care costs, increasing with the severity of obesity, with costs doubling compared to those with normal weight. These increased costs were evident across all categories of care and were particularly pronounced for individuals covered by public health insurance programs. In 2016, the total medical cost attributable to obesity among adults in the US reached $260.6 billion, with substantial variation observed between states.
+
+**Findings of Age Study:**
+This study found a significantly positive correlation between age and medical cost. As people age, their healthcare needs and expenses tend to increase, leading to higher out-of-pocket costs. Consequently, the proportion of adults with medical debt rises with age, with middle-aged adults more likely to have medical debt compared to younger adults.
+
+**Findings of Smoking Study:**
+American adults spent an average of $4,830 annually on medical expenses. Former smokers had the highest expenditures ($5,590), followed by current smokers ($5,244), and never smokers ($4,360), with no significant difference between current and former smokers. These trends persisted across all age groups and were unaffected by years since quitting smoking. Therefore, a significant connection between smoking status and healthcare cost could be found.
+
+### Asking AI (ChatGPT-3) - What are the determining demographic factors of medical insurance cost? 
+
+**BMI (Body Mass Index):** This can have a significant influence, especially for conditions related to weight such as diabetes, heart disease, and joint problems. Higher BMI often correlates with higher medical costs due to increased risk of these health issues.
+
+**Smoking (Yes/No):** Smoking can lead to various health complications such as lung disease, cancer, and heart disease, which can result in higher medical expenses. Thus, being a smoker is likely to increase medical bills.
+
+**Age:** Age can also play a significant role. Older individuals tend to have more health issues and may require more frequent medical care, leading to higher medical bills compared to younger individuals.
+
+**Sex:** While there may be some differences in healthcare needs between sexes, the impact on medical bills might not be as pronounced compared to other factors like BMI or smoking status. However, factors like reproductive health and preventive care might vary.
+**Region:** Healthcare costs can vary significantly depending on the region due to differences in healthcare infrastructure, cost of living, availability of healthcare services, and insurance coverage. For example, medical bills might be higher in regions with higher costs of living or where healthcare services are more expensive.
+
+**Number of Children:** This factor might not have as strong an influence on individual medical bills compared to others listed. However, it could affect overall healthcare costs for a family, especially if children require frequent medical care or specialized treatments.
+Overall, while all factors listed can influence medical bills to some extent, BMI, smoking status, age, and region are likely to have the highest influence, with BMI and smoking potentially being the most significant determinants.
+
+### Conclusion
+
+The used AI model and the cited studies mostly confirm the results of the conducted analysis in this project. Smoking status, age, and Body Mass Index (BMI) are the top predictors for health care cost, whereas number of children, region, or sex does not play a significant role in estimating the health care expenses. Reasons for the irrelevance of the "region"-factor and this deviance from the used AI model response may be due to the large size of the different region categories. Although there are some trends regarding socioeconomic status in southwest vs. northwest United States, the differences among the regions are not as big as between different city parts in the US. The smaller the selected region, the more significant the results will be regarding that factor.
 
 
 ## Bibliography
