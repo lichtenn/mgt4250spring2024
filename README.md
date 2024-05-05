@@ -46,12 +46,10 @@ The radar chart depicts the coefficients of a linear regression model. It shows 
 
 ### Clusters of Patients
 ![image](https://github.com/lichtenn/mgt4250spring2024/assets/158494941/c8397ff2-2b4b-4b3b-8637-5ec5edc3d1e3)
-Lastly, the visualization of k-means clustering helps to visualize the different groups in the sample based on BMI, Age, and Charges. In this way, it helps to understand which groups of people have similar charges and by which factors their belonging to a group of low, medium, or high cost can be explained. The visualization can help to tailor advisory services for certain patients belonging to a certain cluster. A client in cluster 1 may have to be treated differently from a client in cluster 4. In line with the results from our radar chart, the group with the highest charges is, for example, characterized by a high age and BMI. 
+Lastly, the visualization of k-means clustering helps to visualize the different groups in the sample based on BMI, Age, and Charges. In this way, it helps to understand which groups of people have similar charges and by which factors their belonging to a group of low, medium, or high cost can be explained. The visualization can help to tailor advisory services for certain patients belonging to a certain cluster. A client in cluster 1 may have to be treated differently from a client in cluster 4. In line with the results from our radar chart, the group with the highest charges is, for example, characterized by a high age and BMI. The correlation of age/BMI and charges holds true for all other clusters except the two clusters with the lowest expenses. In conclusion, the cluster is supposed to further emphasize the impact of age and BMI on medical charges
 
 ## Discussion & Summary
-```python
-import pandas as pd
-```
+
 
 ## Bibliography
 Berdahl, T. A., Friedman, A. B., McCormick, D., Gourevitch, R. A., & Ballard, D. W. (2019). A new look at the 2019 health insurance coverage trends. Health Affairs, 38(10), 1612-1620.
@@ -65,6 +63,3 @@ Friedman, A. B., Gourevitch, R., Lipitz-Snyderman, A., Rahman, M., & Ballard, D.
 
 Lassman, D., Hartman, M., Washington, B., Andrews, K., Catlin, A., & Heffler, S. (2019). US health spending trends by age and gender: Selected years 2002-10. Health Affairs, 38(2), 101-106.
 Papanicolas, I., Woskie, L. R., & Jha, A. K. (2018). Health care spending in the United States and other high-income countries. JAMA, 319(10), 1024-1039.
-
-[Elon University](https://elon.edu)
-![image](https://github.com/lichtenn/mgt4250spring2024/assets/158494941/382ae03b-b20a-421e-9d31-e5cf067c65ca)
