@@ -86,6 +86,8 @@ The used AI model and the cited studies mostly confirm the results of the conduc
 Berdahl, T. A., Friedman, A. B., McCormick, D., Gourevitch, R. A., & Ballard, D. W. (2019). A new look at the 2019 health insurance coverage trends. Health Affairs, 38(10), 1612-1620.
 Centers for Medicare & Medicaid Services. (2021). National Health Expenditure Data. [https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData]
 
+Cawley, J., Biener, A., Meyerhoefer, C., Ding, Y., Zvenyach, T., Smolarz, B. G., & Ramasamy, A. (2021). Direct medical costs of obesity in the United States and the most populous states. Journal of managed care & specialty pharmacy, 27(3), 354–366. https://doi.org/10.18553/jmcp.2021.20410
+
 Cutler, D. M., & Ly, D. P. (2018). The (paper) work of medicine: Understanding international medical costs. Journal of Economic Perspectives, 32(3), 3-26.
 
 Dieleman, J. L., Baral, R., Birger, M., Bui, A. L., Bulchis, A., Chapin, A., ... & Murray, C. J. (2016). US spending on personal health care and public health, 1996-2013. JAMA, 316(24), 2627-2646.
@@ -94,3 +96,7 @@ Friedman, A. B., Gourevitch, R., Lipitz-Snyderman, A., Rahman, M., & Ballard, D.
 
 Lassman, D., Hartman, M., Washington, B., Andrews, K., Catlin, A., & Heffler, S. (2019). US health spending trends by age and gender: Selected years 2002-10. Health Affairs, 38(2), 101-106.
 Papanicolas, I., Woskie, L. R., & Jha, A. K. (2018). Health care spending in the United States and other high-income countries. JAMA, 319(10), 1024-1039.
+
+Rakshit, S., Rakshit, S., Twitter, M. R., Claxton, G., Amin, K., & Twitter, C. C. (2024, February 12). The burden of medical debt in the United States. Peterson-KFF Health System Tracker. https://www.healthsystemtracker.org/brief/the-burden-of-medical-debt-in-the-united-states/#Share%20of%20adults%20who%20have%20medical%20debt,%20by%20health%20status%20and%20disability%20status,%202021 
+
+Swedler, D. I., Miller, T. R., Ali, B., Waeher, G., & Bernstein, S. L. (2019). National medical expenditures by smoking status in American adults: an application of Manning's two-stage model to nationally representative data. BMJ open, 9(7), e026592. https://doi.org/10.1136/bmjopen-2018-026592
