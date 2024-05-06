@@ -66,7 +66,12 @@ This study found a significantly positive correlation between age and medical co
 **Findings of Smoking Study:**
 American adults spent an average of $4,830 annually on medical expenses. Former smokers had the highest expenditures ($5,590), followed by current smokers ($5,244), and never smokers ($4,360), with no significant difference between current and former smokers. These trends persisted across all age groups and were unaffected by years since quitting smoking. Therefore, a significant connection between smoking status and healthcare cost could be found.
 
-### Asking AI (ChatGPT-3) - What are the determining demographic factors of medical insurance cost? 
+### Asking AI - What are the determining demographic factors of medical insurance cost? 
+
+To further validate our results, we asked a variety of AI Chatbots to answer our research question. The exact prompt was the following:
+Looking at the following factors, how do they influence the amount of medical charges? Factors: Age, Sex, BMI, Region, Smoker(yes/no), and Number of Children
+
+#### Response of ChatGPT-3
 
 **BMI (Body Mass Index):** This can have a significant influence, especially for conditions related to weight such as diabetes, heart disease, and joint problems. Higher BMI often correlates with higher medical costs due to increased risk of these health issues.
 
@@ -80,6 +85,87 @@ American adults spent an average of $4,830 annually on medical expenses. Former 
 
 **Number of Children:** This factor might not have as strong an influence on individual medical bills compared to others listed. However, it could affect overall healthcare costs for a family, especially if children require frequent medical care or specialized treatments.
 Overall, while all factors listed can influence medical bills to some extent, BMI, smoking status, age, and region are likely to have the highest influence, with BMI and smoking potentially being the most significant determinants.
+
+#### Response of Microsoft Copilot
+
+Sure, let's break down how each of these factors can influence the amount of medical charges:
+
+1. **Age**: As people age, they are more likely to need medical care because older people are more likely to have health problems¹. This means the insurance company has to pay more for their medical bills, which increases the cost of health insurance premiums¹.
+
+2. **Sex**: There are sex and gender differences in the causes, symptoms, treatment response, and long-term outcomes for many diseases⁹. For example, women are more likely to suffer from autoimmune diseases, osteoporosis, and be diagnosed with depression and anxiety; men are more likely to develop Parkinson’s disease and cardiovascular disease early in life⁸.
+
+3. **BMI (Body Mass Index)**: BMI is used as a measure in medicine to assess the risk of health problems related to weight⁵. Higher BMI can indicate higher risk for diseases like diabetes, arthritis, liver disease, and several types of cancer⁷, which can lead to higher medical costs.
+
+4. **Region**: The region or location can influence medical charges due to differences in cost of living, availability of medical services, and local health trends¹⁵. For example, health insurance premiums can be higher in areas with low population density¹⁵.
+
+5. **Smoker (Yes/No)**: Smoking can significantly increase medical costs. Smokers are more likely to suffer from a variety of health issues, leading to higher medical expenses¹¹. Health insurance companies often charge smokers higher premiums¹¹.
+
+6. **Number of Children**: The number of children can influence medical charges as more family members mean more potential health costs. However, the specific impact can vary based on the health insurance policy and other factors¹⁷.
+
+Remember, these are general trends and the actual impact on medical charges can vary based on individual circumstances and specific health insurance policies. It's always a good idea to discuss these factors with a healthcare professional or insurance provider for personalized advice.
+
+Sources:
+(1) How Age Affects Health Insurance Costs - ValuePenguin. https://www.valuepenguin.com/how-age-affects-health-insurance-costs.
+(2) The influence of sex on disease and treatment - The Oxford Scientist. https://oxsci.org/the_influence_of_sex_on_disease_and_treatment/.
+(3) How sex and gender — which are not the same thing — influence our health. https://stanmed.stanford.edu/how-sex-and-gender-which-are-not-the-same-thing-influence-our-health/.
+(4) AMA adopts new policy clarifying role of BMI as a measure in medicine. https://www.ama-assn.org/press-center/press-releases/ama-adopts-new-policy-clarifying-role-bmi-measure-medicine.
+(5) How useful is the body mass index (BMI)? - Harvard Health. https://www.health.harvard.edu/blog/how-useful-is-the-body-mass-index-bmi-201603309339.
+(6) Medical Insurance Premium Prediction Using Regression Models - IJRTI. https://ijrti.org/papers/IJRTI2304248.pdf.
+(7) What you need to know about smoking and health insurance - HealthMarkets. https://www.healthmarkets.com/resources/health-insurance/smoking-and-health-insurance/.
+(8) Patterns and Factors Associated With Medical Expenses and Health .... https://www.bls.gov/cex/research_papers/pdf/choi-blackburn-patterns-and-factors-associated-with-medical-expenses-and-health-insurance-premium-payments.pdf.
+(9) The Challenge of Understanding Health Care Costs and Charges. https://journalofethics.ama-assn.org/article/challenge-understanding-health-care-costs-and-charges/2015-11.
+(10) How age impacts your health insurance costs - PeopleKeep. https://www.peoplekeep.com/blog/how-age-impacts-your-health-insurance-costs.
+(11) Can I be charged more because of my age? | KFF. https://www.kff.org/faqs/faqs-health-insurance-marketplace-and-the-aca/can-be-charged-more-because-of-my-age/.
+(12) Which Factor Influences Health Insurance Premiums? | LiveWell. https://livewell.com/finance/which-factor-influences-health-insurance-premiums/.
+(13) How Sex and Gender Affect Health (And Why Knowing Matters). https://orwh.od.nih.gov/about/director/messages/how-sex-and-gender-affect-health-and-why-knowing-matters.
+(14) Hidden Costs: The Economic Burden of Cigarette Smoking on U.S ... - ASH. https://ash.org/hidden-costs-healthcare/.
+(15) Tobacco surcharge in health insurance plans - Insure.com. https://www.insure.com/health-insurance/smoking-surcharge-health-insurance.html.
+(16) Smoking, selection, and medical care expenditures. https://link.springer.com/article/10.1007/s11166-022-09378-9.
+(17) Catastrophic health expenditures: a disproportionate risk in uninsured .... https://healtheconomicsreview.biomedcentral.com/articles/10.1186/s13561-024-00486-7.
+(18) Public Charge Rule and Its Impact on Child Health: A Call to Action. https://publications.aap.org/pediatrics/article/146/6/e2020001495/33534/Public-Charge-Rule-and-Its-Impact-on-Child-Health.
+
+#### Response of Gemini 
+
+Here's how the factors you mentioned can influence medical charges:
+
+* **Age:**  Generally, medical charges increase with age. As people age, they are more likely to develop chronic conditions requiring ongoing medical care and medications.
+
+* **Sex:**  Sex can influence medical charges due to biological differences and prevalence of certain conditions. For example, women may have higher charges for pregnancy-related care and mammograms, while men may have higher charges for prostate exams.
+
+* **Body Mass Index (BMI):**  A higher BMI is associated with an increased risk of various health problems like diabetes, heart disease, and joint issues. This can lead to more doctor visits, medications, and potentially surgeries, raising medical charges. 
+
+* **Region:**  Medical charges can vary depending on the location due to factors like cost of living, practice patterns of physicians, and availability of specialists. Regions with a higher cost of living may have more expensive medical services.
+
+* **Smoker (yes/no):**  Smoking is a major risk factor for many diseases, including lung cancer, heart disease, and chronic obstructive pulmonary disease (COPD). Smokers typically have higher medical charges due to the increased need for treatment of these conditions.
+
+* **Number of Children:**  The number of children can influence medical charges in two ways.  Children require regular checkups, vaccinations, and occasional illnesses, leading to some medical costs. However, some employer-sponsored health insurance plans may cover dependents at a lower cost, potentially reducing the overall charges for a family.
+
+It's important to note that these factors often interact with each other. For instance, the impact of age on medical charges might be more significant for smokers compared to non-smokers.
+
+#### Response of Perplexity AI
+
+Based on the search results provided, the following key factors influence medical charges:
+
+Age: Older age is associated with higher medical costs. The search results indicate that medical costs increase with age, with the highest estimated costs occurring for individuals aged 60-70 years old.[3]
+
+Sex: Females generally have higher medical costs compared to males. The search results show that obesity-related medical costs are higher for adult females compared to males.[3]
+
+BMI: Higher BMI, especially severe obesity, is associated with increased medical costs across all ages. The search results highlight that severe obesity is linked to higher healthcare expenditures.[3]
+
+Smoking: Current heavy smokers have lower medical costs compared to never smokers, while former smokers who quit less than 5 years ago have the highest medical costs.[1][2] The search results suggest that the incidence of smokers' elevated medical costs appears to be borne by smokers themselves in the form of lower wages.[2]
+
+Region: Living in an economically developed region is associated with lower medical costs.[1]
+
+Number of Children: Having children in the household has a positive effect on medical visits and expenses, with the impact varying by gender.[1]
+
+In summary, older age, female sex, higher BMI, and being a former smoker are key factors that increase medical charges, while current heavy smoking and living in an economically developed region are associated with lower medical costs.[1][2][3][4][5]
+
+Citations:
+[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916274/
+[2] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3226822/
+[3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7990296/
+[4] https://rpubs.com/MattDunham99/medical_costs
+[5] https://rpubs.com/dwiuzila/medcost
 
 ### Conclusion
 
