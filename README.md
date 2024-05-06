@@ -169,7 +169,7 @@ Citations:
 
 ### Conclusion
 
-The used AI model and the cited studies mostly confirm the results of the conducted analysis in this project. Smoking status, age, and Body Mass Index (BMI) are the top predictors for health care cost, whereas number of children, region, or sex does not play a significant role in estimating the health care expenses. Reasons for the irrelevance of the "region"-factor and this deviance from the used AI model response may be due to the large size of the different region categories. Although there are some trends regarding socioeconomic status in southwest vs. northwest regions of the United States, the differences among the regions are not as big as between different city parts in the US. The smaller the selected region, the more significant the results will be regarding that factor.
+The used AI model and the cited studies mostly confirm the results of the conducted analysis in this project. Smoking status, age, and Body Mass Index (BMI) are the top predictors for health care cost, whereas number of children, region, or sex do not play a significant role in estimating the health care expenses. Reasons for the irrelevance of the "region"-factor and this deviance from the used AI model responses may be due to the large size of the different region categories. Although there are some trends regarding socioeconomic status in southwest vs. northwest regions of the United States, the differences among the regions are not as big as between different city parts in the US. The smaller the selected region, the more significant the results will be regarding that factor.
 
 
 ## Bibliography
